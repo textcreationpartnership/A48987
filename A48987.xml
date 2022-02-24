@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common Councell, concerning orphans</title>
+            <author>City of London (England). Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48987</idno>
+            <idno type="STC">Wing L2852X</idno>
+            <idno type="STC">ESTC R216715</idno>
+            <idno type="EEBO-CITATION">99828437</idno>
+            <idno type="PROQUEST">99828437</idno>
+            <idno type="VID">32864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32864)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1954:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common Councell, concerning orphans</title>
+                  <author>City of London (England). Common Council.</author>
+               </titleStmt>
+               <extent>[2], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>Orphans --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32864:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>blazon or coat of arms of the City of London</figDesc>
+            </figure>
+            <p>AN ACT OF Common Councell, Concerning <hi>ORPHANS.</hi>
+            </p>
+            <p>Printed by <hi>James Fleſher,</hi> Prin<g ref="char:EOLhyphen"/>ter to the Honourable City of LONDON, 1663.</p>
+            <pb facs="tcp:32864:2" rendition="simple:additions"/>
+            <pb facs="tcp:32864:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="statute">
+            <pb facs="tcp:32864:3"/>
+            <pb n="1" facs="tcp:32864:3"/>
+            <head>Commune Concilium tentum in <hi>Guildhald'</hi> civitatis <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> decimo tertio die <hi>Octobris,</hi> an<g ref="char:EOLhyphen"/>no regni <hi>Edwardi</hi> ſexti Dei gratia <hi>Angliae, Franciae,</hi> &amp; <hi>Hiberniae</hi> Re<g ref="char:EOLhyphen"/>gis, fidei defenſor', &amp; in terra Ec<g ref="char:EOLhyphen"/>cleſiae <hi>Anglicanae</hi> &amp; <hi>Hiberniae</hi> ſu<g ref="char:EOLhyphen"/>premi capit' quinto, coram <hi>An<g ref="char:EOLhyphen"/>drea Judde</hi> mil' Major' civit' prae<g ref="char:EOLhyphen"/>dict', Recordator', <hi>Laxton, Bowes, Hill, Jervis, White, Turk, Hinde, Lyon, Kirton, Offley, Aylyffe, Wyther, Huett, Robins,</hi> &amp; <hi>Lambard</hi> Vic' ac majore parte Commoniar' &amp;c. ſic ordinat' fuit &amp;c.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or as much as the City of London is of late years ſore
+<pb n="2" facs="tcp:32864:4"/> decayed, and daily is like to decay more and more, a great cauſe and occaſion whereof, among other, hath been, for that free-mens chil<g ref="char:EOLhyphen"/>dren, Orphans of the ſaid City, ſometimes in the lives of their parents, and ſome<g ref="char:EOLhyphen"/>times after their deceaſes, being left wealthy and rich, do beſtow themſelves in un<g ref="char:EOLhyphen"/>godly marriages for the moſt part in their young age, at their own wills and pleaſures, without the con<g ref="char:EOLhyphen"/>ſent, and againſt the minds of their friends, ſaying &amp; af<g ref="char:EOLhyphen"/>firming, that the Law and cuſtome of the ſaid City gi<g ref="char:EOLhyphen"/>veth
+<pb n="3" facs="tcp:32864:4"/> unto them their porti<g ref="char:EOLhyphen"/>ons, whether they marry by the aſſent of their friends or not, and ſo doe daily caſt a<g ref="char:EOLhyphen"/>way and undoe themſelves, in truſt to have their ſaid portions whether their pa<g ref="char:EOLhyphen"/>rents or friends will or not, and thereby do beſtow them<g ref="char:EOLhyphen"/>ſelves upon ſimple and light perſons, having neither cun<g ref="char:EOLhyphen"/>ning, knowledge, ſubſtance, ne good or honeſt conditi<g ref="char:EOLhyphen"/>ons: by reaſon whereof ſuch Orphans inordinately and inſolently doe ſpend and conſume their patrimony and portions in ſhort time, not onely to the undoing of
+<pb n="4" facs="tcp:32864:5"/> themſelves, and to the great ignominy and ſhame of their friends, but alſo to the great ſlander of the Lord Mayor and Aldermen of this City, who being re<g ref="char:EOLhyphen"/>puted and taken as fathers and protectors of the ſame Orphans, and to the great loſs and hinderance of the ſaid City.</p>
+            <p>And for as much as the ſaid Lord Maior &amp; Citizens have by their laws and cu<g ref="char:EOLhyphen"/>ſtomes, power and authori<g ref="char:EOLhyphen"/>ty to make laws and ordi<g ref="char:EOLhyphen"/>nances by their Common Councell for redreſs of the ſame: It is therefore now, to
+<pb n="5" facs="tcp:32864:5"/> the intent to reduce the ſame to a more godly, more profitable &amp; decent order and conformity, by the ſaid Lord Maior &amp; Commonalty &amp; Ci<g ref="char:EOLhyphen"/>tizens in this preſent Com<g ref="char:EOLhyphen"/>mon Councel aſſembled, &amp; by the authority of the ſame Common Councel ordained, enacted, authoriſed, and e<g ref="char:EOLhyphen"/>ſtabliſhed for a Law perpe<g ref="char:EOLhyphen"/>tually to be obſerved and kept within the ſaid City, That if any Orphan or child of any free-man or free-wo<g ref="char:EOLhyphen"/>man of the ſaid City, do of<g ref="char:EOLhyphen"/>fend in any the things here<g ref="char:EOLhyphen"/>after expreſſed, and be there<g ref="char:EOLhyphen"/>of lawfully convicted afore
+<pb n="6" facs="tcp:32864:6"/> the Lord Mayor and the Aldermen, or elſewhere, that then they and every of them, ſhall to all intents, purpoſes, conſtructions and meanings, be unabled and barred to demand and claim their portion or portions, and alſo ſhall loſe and for<g ref="char:EOLhyphen"/>goe, and be barred for ever of all and every his, her or their part or parts and por<g ref="char:EOLhyphen"/>tions, to him or them be<g ref="char:EOLhyphen"/>longing, by and after the death of his ſaid father or mother, of the goods and chattels of every ſuch fa<g ref="char:EOLhyphen"/>ther and mother, by reaſon of any law, cuſtome, ordi<g ref="char:EOLhyphen"/>nance,
+<pb n="7" facs="tcp:32864:6"/> uſage, franchiſe, pri<g ref="char:EOLhyphen"/>viledge, act of Common Councel, or other things heretofore had or uſed with<g ref="char:EOLhyphen"/>in the ſaid City, the ſame Law, cuſtome, ordinance, or other thing whatſoever heretofore had, made, ordai<g ref="char:EOLhyphen"/>ned, allowed and put in ure to the contrary in any wiſe notwithſtanding: That is to wit, Firſt, If any man child or woman child ſhall maliciouſly go about or at<g ref="char:EOLhyphen"/>tempt to doe or cauſe to be done any bodily harm, death or deſtruction to his or their father or mother, or if any man child do hereafter mar<g ref="char:EOLhyphen"/>ry
+<pb n="8" facs="tcp:32864:7"/> or contract marriage in the life of his father or mo<g ref="char:EOLhyphen"/>ther by whom he will claim any portion, under the age of one &amp; twenty years, with<g ref="char:EOLhyphen"/>out the conſent of his ſaid father or mother by whom he will claim any portion, or if any woman child doe hereafter marry or contract marriage in the life of her father or other parents by whom ſhee ſhall claim any portion, before the age of eighteen years, without the conſent of her father or ſuch other parent by whom ſhee ſhall or may claim any por<g ref="char:EOLhyphen"/>tion, or if any man child be
+<pb n="9" facs="tcp:32864:7"/> a thief, or a felon, or com<g ref="char:EOLhyphen"/>mon whorehaunter, or com<g ref="char:EOLhyphen"/>mon dicer or common play<g ref="char:EOLhyphen"/>er at unlawfull games no<g ref="char:EOLhyphen"/>toriouſly known, or if any woman child ſhall hereaf<g ref="char:EOLhyphen"/>ter commit any whoredome or be a common picker, that then every of the perſons ſo offending ſhall be barred &amp; excluded to have or demand any portion: Provided al<g ref="char:EOLhyphen"/>waies that it ſhall be law<g ref="char:EOLhyphen"/>full for the father or mother of any ſuch child or children to give and bequeath in le<g ref="char:EOLhyphen"/>gacy to ſuch child or children as much as the portion of ſuch child ſo offending ſhall
+<pb n="10" facs="tcp:32864:8"/> amount unto by the cuſtom of the ſaid City, and then ſuch child thereby to be ena<g ref="char:EOLhyphen"/>bled to have and demand the ſame as portion, this act notwithſtanding; ſo that the ſame legacy be contained in his or their teſtament in wri<g ref="char:EOLhyphen"/>ting and not otherwiſe: and that then and from thence<g ref="char:EOLhyphen"/>forth his ſaid child or chil<g ref="char:EOLhyphen"/>dren to be admitted and re<g ref="char:EOLhyphen"/>ſtored to claim ſuch legacy or legacies in ſuch ſort, manner &amp; form, as if there had been never ſuch offence done or committed by any ſuch child.</p>
+            <p>Item, it is further ordai<g ref="char:EOLhyphen"/>ned,
+<pb n="11" facs="tcp:32864:8"/> enacted, authoriſed and eſtabliſhed by authority aforeſaid, that if any wo<g ref="char:EOLhyphen"/>man child being an Orphan &amp; under the age of xxi. years, at any time hereafter after the death of her father doe cenſure or contract her ſelfe in marriage, or elſe accor<g ref="char:EOLhyphen"/>ding to the Eccleſiaſticall laws of this Realm do per<g ref="char:EOLhyphen"/>fectly ſolemnize or conſum<g ref="char:EOLhyphen"/>mate marriage with any free-man of this City, the conſent &amp; agreement of the Lord Mayor and Aldermen of the ſaid City of London for the time being, not obtai<g ref="char:EOLhyphen"/>ned &amp; had, that then for every
+<pb n="12" facs="tcp:32864:9"/> ſuch default &amp; offence com<g ref="char:EOLhyphen"/>mitted or done by any Or<g ref="char:EOLhyphen"/>phan or Orphans of the ſaid city, the ſame being con<g ref="char:EOLhyphen"/>feſſed or ſufficiently proved by two witneſſes or other<g ref="char:EOLhyphen"/>wiſe, before the Lord Maior &amp; Aldermen of this ſaid Ci<g ref="char:EOLhyphen"/>ty of London for the time being at &amp; in a Court of Al<g ref="char:EOLhyphen"/>dermen, ſhe or they that ſo happen to behave her or themſelves as is aforeſaid, ſhall forfeit and forgoe and loſe xii. d. of and for every pound ſo due or to be due un<g ref="char:EOLhyphen"/>to her or them by reaſon of any ſuch Orphanage: The ſumme of xii. d. of every
+<pb n="13" facs="tcp:32864:9"/> pound to goe or be to the uſe of the Chamber of the ſaid City, according to the anci<g ref="char:EOLhyphen"/>ent cuſtome before this time in ſuch caſe uſed. And if the ſaid contract or marriage of the ſaid Orphan or orphans be made with any foreine, not being free of this City at the time of any ſuch con<g ref="char:EOLhyphen"/>tract or marriage made, that then the ſaid Orphan or Or<g ref="char:EOLhyphen"/>phans &amp; every of them ſhall forfeit &amp; loſe three ſhillings of every pound due or to be due unto her or them by ver<g ref="char:EOLhyphen"/>tue of any Orphanage or cuſtome, had or uſed within the ſaid City, the one ſhil<g ref="char:EOLhyphen"/>ling
+<pb n="14" facs="tcp:32864:10"/> of the ſaid three ſhil<g ref="char:EOLhyphen"/>lings of every pound to goe or be to the uſe of the Chamber of the ſaid City, in ſuch manner and form as is aforeſaid, and the other two ſhillings ſo forfeited of every pound to go to the uſe of ſuch other Orphan or Orphans as then ſhall re<g ref="char:EOLhyphen"/>main unmarried, or elſe for default of ſuch Orphans or Orphans to remain to the next of the kindred of the Orphan ſo offending.</p>
+            <p>Alſo be it further enacted, ordained and eſtabliſhed by authority aforeſaid, for and in eſchewing of divers vari<g ref="char:EOLhyphen"/>ances,
+<pb n="15" facs="tcp:32864:10"/> contentions &amp; ſuites that daily heretofore have and hereafter may enſue, That if any free-mans child man or woman fortune to be married hereafter in the life time of his or their father by his conſent, and not fully advanced of &amp; to his or her full part or portion of his or her ſaid fathers goods as he ſhall be worth at the time his deceaſe, according to the ancient laws &amp; cuſtomes of this ſaid City, that then eve<g ref="char:EOLhyphen"/>ry ſuch free-mans child ſo being married in the life time of his or her father ſhal be to all intents &amp; purpoſes
+<pb n="16" facs="tcp:32864:11"/> diſabled to demand any fur<g ref="char:EOLhyphen"/>ther part or portion of his or her fathers goods after the deceaſe of his or their fa<g ref="char:EOLhyphen"/>ther, but ſhall be adjudged, reputed and taken to be ful<g ref="char:EOLhyphen"/>ly advanced, according as the law &amp; cuſtome of this Ci<g ref="char:EOLhyphen"/>ty hath been long time out of mind, except his or her ſaid father doe mention cer<g ref="char:EOLhyphen"/>tainly in his laſt wil or teſta<g ref="char:EOLhyphen"/>ment, or by other writing ſigned with his own proper name or mark, the certainty of the ſum or ſums of mony, goods and chattels, and the value of them, that the fa<g ref="char:EOLhyphen"/>ther gave or departed with<g ref="char:EOLhyphen"/>all
+<pb n="17" facs="tcp:32864:11"/> or otherwiſe aſſured, or hereafter ſhall give, pay or depart withall, or other<g ref="char:EOLhyphen"/>wiſe make aſſurance of un<g ref="char:EOLhyphen"/>to him or her, before, at, or after the marriage of him or her, or otherwiſe in his life time for &amp; towards their advancements in the name of his or her part or porti<g ref="char:EOLhyphen"/>on. And then every ſuch Or<g ref="char:EOLhyphen"/>phan or child which after the deceaſe of his or her ſaid father can bring forth the ſaid teſtament or other wri<g ref="char:EOLhyphen"/>ting ſigned or marked with their fathers hand or mark, wherein the certainty of ſuch mony, goods or chat<g ref="char:EOLhyphen"/>tals
+<pb n="18" facs="tcp:32864:12"/> as they have or ſhall have received of their ſaid father or by the ſame father aſſured by eſpecialty, or o<g ref="char:EOLhyphen"/>therwiſe, ſhall have as much of the ready mony, goods, chattals and debts of the ſaid father as (with that which he or they ſhall have received towards their advancements in the life of their ſaid father) ſhall make up a full childs part of his goods and chattels as he ſhall be worth at the time of his deceaſe, the ſame to be de<g ref="char:EOLhyphen"/>manded, asked and claimed, or ſued for againſt the Exe<g ref="char:EOLhyphen"/>cutor or Executors, Admi<g ref="char:EOLhyphen"/>niſtrator
+<pb n="19" facs="tcp:32864:12"/> or Adminiſtrators of the goods and chattels of the ſaid father by Bill origi<g ref="char:EOLhyphen"/>nal, to be commenced in our Sovereign Lord the Kings Court holden in the utter Chamber of the Guildhall of the ſaid City, before the the ſaid Lord Maior and Aldermen of the ſame City for the time being: any law or cuſtome heretofore made or uſed to the contrary not<g ref="char:EOLhyphen"/>withſtanding: in which acti<g ref="char:EOLhyphen"/>on no wager of law ſhall be admitted or allowed.</p>
+            <p>Provided alway, and it is further enacted, that if any free-mans ſon being of full
+<pb n="20" facs="tcp:32864:13"/> age, which ſhall hereafter be married with the conſent of his father or any other perſon, being of full age, which ſhall hereafter marry any free-mans daughter, do at the time of the eſpouſals, or any time after, confeſſe themſelves by writing fully ſatisfied of his or their por<g ref="char:EOLhyphen"/>tion, or do otherwiſe acquit and diſcharge the father of ſuch free-mans ſonns or daughters of all their part and portion, due, or to be due by the law and cuſtome of this City: that then every ſuch perſon ſo confeſſing, ac<g ref="char:EOLhyphen"/>quitting, or otherwiſe diſ<g ref="char:EOLhyphen"/>charging,
+<pb n="21" facs="tcp:32864:13"/> ſhall be reputed &amp; taken as fully advanced of his or thier full part and por<g ref="char:EOLhyphen"/>tion, and ſhall not be enabled to demand any further or greater part of the ſub<g ref="char:EOLhyphen"/>ſtance, goods and chattels, of his or her father: this law, or any other law or cu<g ref="char:EOLhyphen"/>ſtome, heretofore had, made, or uſed to the contrary not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>And further, for as much as it is thought very preju<g ref="char:EOLhyphen"/>dicial and hurtfull to the fa<g ref="char:EOLhyphen"/>therleſſe children and Or<g ref="char:EOLhyphen"/>phans, when the mother or mother in law, being Execu<g ref="char:EOLhyphen"/>trix of the laſt will and teſta<g ref="char:EOLhyphen"/>ment
+<pb n="22" facs="tcp:32864:14"/> of her late husband, by whom, &amp; after whoſe death, the Orphans are entituled to an Orphanage, according to the laudable cuſtomes of this City, do divers times marry, or contract matri<g ref="char:EOLhyphen"/>mony, ſome with forreiners and perſons unknown, and ſome with free-men, or ever a juſt inventory of the goods, chattels, plate, jew<g ref="char:EOLhyphen"/>els, ready mony of the teſta<g ref="char:EOLhyphen"/>tors, be by them brought in, by reaſon whereof many times they either for fear or affection of their husbands, or for ſome other ſiniſter cauſe, do bring in very ſuſpi<g ref="char:EOLhyphen"/>tious
+<pb n="23" facs="tcp:32864:14"/> inventories, omitting therein, either ready mony, plate, jewels, or debts, or ſome other thing or things, whereby ſome benefit ſhould redound to the fatherleſſe children, to the great loſs &amp; hinderance of the Orphans, &amp; ſometimes ſlander to the Lord Maior &amp; Aldermen of this City, notwithſtanding their great care and travail that they take for the good ordering and true anſwe<g ref="char:EOLhyphen"/>ring of the ſaid Orphans: It is therefore by like au<g ref="char:EOLhyphen"/>thority ordained, eſtabliſhed and enacted, that if after the firſt day of November
+<pb n="24" facs="tcp:32864:15"/> next enſuing, any widow, which is or ſhall be made Executrix of the teſtament and laſt will of her late huſ<g ref="char:EOLhyphen"/>band being free-man, or ſhall take upon her the Ad<g ref="char:EOLhyphen"/>miniſtration of the goods and chattels of her late huſ<g ref="char:EOLhyphen"/>being a free-man, doe not upon her oath bring and ex<g ref="char:EOLhyphen"/>hibit, or cauſe to be brought in &amp; exhibited, before the ſaid Lord Mayor and Alder<g ref="char:EOLhyphen"/>men of this ſaid City for the time being, at and in a Court of Aldermen, a juſt and perfect inventory to their knowledge of all the goods, chattels, plate
+<pb n="25" facs="tcp:32864:15"/> and jewels, ready money and debts as were her ſaid husbands at the time of his death appraiſed accor<g ref="char:EOLhyphen"/>ding to the Law of the ſaid City, before ſhee doe en<g ref="char:EOLhyphen"/>ſure her ſelfe in marriage or contract marriage, or elſe according to the Lawes of the Realme doe perfectly ſolemnize or conſummate marriage with any perſon, before ſuch time as afore<g ref="char:EOLhyphen"/>ſaid: That then every per<g ref="char:EOLhyphen"/>ſon ſo offending, ſhall for<g ref="char:EOLhyphen"/>feit and loſe eight ſhillings of every pound of her por<g ref="char:EOLhyphen"/>tion of the goods of her late husband, due to her by the
+<pb n="26" facs="tcp:32864:16"/> laudable Cuſtome of this ſaid City, the ſame to goe to the uſe of ſuch Orphan or Orphans as then ſhall be entituled to have or de<g ref="char:EOLhyphen"/>mande any Orphanage or Portion after the death of his or her late Father, the ſame to be demanded, ask<g ref="char:EOLhyphen"/>ed, claymed, or ſued for, againſt ſuch Executrix or Adminiſtratrix by Bill o<g ref="char:EOLhyphen"/>riginall or Debt to be com<g ref="char:EOLhyphen"/>menced in our Sovereign Lord the Kings Court, holden in the utter Cham<g ref="char:EOLhyphen"/>ber of the Guildhall of the ſaid City, before the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men
+<pb n="27" facs="tcp:32864:16"/> of the ſame City for the time being, any Law, &amp;c.</p>
+            <p>In which Action no Wager, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
